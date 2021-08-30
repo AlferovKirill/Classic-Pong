@@ -24,8 +24,6 @@ public class Pong : MonoBehaviour
 	public int startBallSpeed;
 	public float enemySpeed;
 
-	public float playerLimitY;
-
 	public Text scoresText;
 	public Text musicText; 
 
@@ -42,9 +40,6 @@ public class Pong : MonoBehaviour
 	public Sprite[] spritePause;
 	public Sprite[] spriteMusic; 
 
-	private float movement;
-	private float movement2;
-
 	private bool ispvp;
 	private bool isMusicPause; 
 
@@ -60,9 +55,6 @@ public class Pong : MonoBehaviour
 
 	Vector2 freezPlayer;
 	Vector2 freezEnemy;
-
-	float heightY;
-	float heightY_Mode;
 
 	float enemySpeed_Difficult_1 = 2.8f;
 	float enemySpeed_Difficult_2 = 4.325f;
