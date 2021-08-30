@@ -9,5 +9,5 @@ Difficult Modes:
 Pong PVP Mode:
 ![image](https://github.com/AlferovKirill/Classic-Pong/blob/main/Classic%20Pong%20GIF/Classic-Pong-PVP.gif)
 
-Pong-Functional:
+Pong Functional:
 ![image](https://github.com/AlferovKirill/Classic-Pong/blob/main/Classic%20Pong%20GIF/Classic-Pong-Functional.gif)
