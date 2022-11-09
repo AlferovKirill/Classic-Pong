@@ -1,7 +1,5 @@
-# Classic-Pong
 <h1 align="center">Classic-Pong 🕹</h1>
-🕹 This is my first game on Unity2D. It is a classic pong from 70's. <br><br>
-All mechanics, sprites and etc, except music, are made by myself. Because of extortionate developer-contributions from corporations, I post this game here. 
+This is my first game on Unity2D. It is a classic pong from 70's. All mechanics, sprites and etc, except music, are made by myself. Because of extortionate developer-contributions from corporations, I post this game here. 
 <br><br>
 📌 Adaptive interface<br>
 📌 Cross-platform
