@@ -3,7 +3,7 @@ This is my first game on Unity2D. It is a classic pong from 70's. All mechanics,
 <br><br>
 📌 Adaptive interface<br>
 📌 Cross-platform
-
+<br>
 Difficult Modes:
 ![image](https://github.com/AlferovKirill/Classic-Pong/blob/main/Classic%20Pong%20GIF/Classic-Pong-Difficult-Modes.gif)
 
