@@ -1,9 +1,9 @@
 <h1 align="center">Classic-Pong 🕹</h1>
 This is my first game on Unity2D. It is a classic pong from 70's. All mechanics, sprites and etc, except music, are made by myself. Because of extortionate developer-contributions from corporations, I post this game here.
-<br> 
+<br><br> 
 📌 Adaptive interface<br>
 📌 Cross-platform
-<br>
+<br><br> 
 Difficult Modes:
 ![image](https://github.com/AlferovKirill/Classic-Pong/blob/main/Classic%20Pong%20GIF/Classic-Pong-Difficult-Modes.gif)
 
